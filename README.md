@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">Unity Developer • Full-Stack Developer • C#/.NET Learner • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in vocational training/apprenticehip for Informatics, Game & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h5>
+<h4 align="center">Unity Developer • Full-Stack Developer • C#/.NET Learner • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in vocational training/apprenticehip for Informatics, Game & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h4>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h5 align="left"> • I enjoy developing games and interactive systems with Unity & C#<br> • I’m learning full-stack web development (JavaScript + backend fundamentals)<br> • I’m expanding into .NET backend programming<br> • I’m exploring data science and machine learning fundamentals<br> • I’m continuously improving through new projects and hands-on learning</h5>
+<h5 align="left"> •  I enjoy developing games and interactive systems with Unity & C#<br> •  I’m learning full-stack web development (JavaScript + backend fundamentals)<br> •  I’m expanding into .NET backend programming<br> •  I’m exploring data science and machine learning fundamentals<br> •  I’m continuously improving through new projects and hands-on learning</h5>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h5 align="left">- .NET backend development<br>- REST APIs<br>- Data analysis & ML basics<br>- Full-stack project architecture</h5>
+<h5 align="left"> •  .NET backend development<br> •  REST APIs<br>- Data analysis & ML basics<br> •  Full-stack project architecture</h5>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<h5 align="left">- Improving C# outside of Unity<br>- Building small .NET backend services<br>- Learning Python for data analysis<br>- Expanding my Unity portfolio</h5>
+<h5 align="left"> •  Improving C# outside of Unity<br> •  Building small .NET backend services<br> •  Learning Python for data analysis<br> •  Expanding my Unity portfolio</h5>
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 
-<h5 align="left">- 2D Unity RPG Inventory System – Gameplay logic, UI, scripts<br>- 3D Unity Interaction Prototype – Movement systems, interaction behavior<br>- Web-based Mini Games – JavaScript / Unity WebGL<br>- Small Full-Stack Experiments – Simple APIs, frontend ↔ backend communication<br><br>-> More in my repositories.</h5>
+<h5 align="left"> •  2D Unity RPG Inventory System – Gameplay logic, UI, scripts<br>- 3D Unity Interaction Prototype – Movement systems, interaction behavior<br> •  Web-based Mini Games – JavaScript / Unity WebGL<br> •  Small Full-Stack Experiments – Simple APIs, frontend ↔ backend communication<br><br>-> More in my repositories.</h5>
 
 ###
 
