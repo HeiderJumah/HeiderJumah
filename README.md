@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">Unity Developer • C#/.NET Learner • Full-Stack Web Enthusiast • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in training for Informatics & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h5>
+<h5 align="center">Unity Developer • C#/.NET Learner • Full-Stack Web Enthusiast • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in vocational training/apprenticehip for Informatics, Game & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h5>
 
 ###
 
