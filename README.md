@@ -78,7 +78,7 @@
 
 ###
 
-<h5 align="left"> •  .NET backend development<br> •  REST APIs<br>- Data analysis & ML basics<br> •  Full-stack project architecture</h5>
+<h5 align="left"> •  .NET backend development<br> •  REST APIs<br> •  Data analysis & ML basics<br> •  Full-stack project architecture</h5>
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 
-<h5 align="left"> •  2D Unity RPG Inventory System – Gameplay logic, UI, scripts<br>- 3D Unity Interaction Prototype – Movement systems, interaction behavior<br> •  Web-based Mini Games – JavaScript / Unity WebGL<br> •  Small Full-Stack Experiments – Simple APIs, frontend ↔ backend communication<br><br>-> More in my repositories.</h5>
+<h5 align="left"> •  2D Unity RPG Inventory System – Gameplay logic, UI, scripts<br> •  3D Unity Interaction Prototype – Movement systems, interaction behavior<br> •  Web-based Mini Games – JavaScript / Unity WebGL<br> •  Small Full-Stack Experiments – Simple APIs, frontend ↔ backend communication<br><br>-> More in my repositories.</h5>
 
 ###
 
