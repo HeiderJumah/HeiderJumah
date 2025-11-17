@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">Unity Developer • C#/.NET Learner • Full-Stack Web Enthusiast • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in vocational training/apprenticehip for Informatics, Game & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h5>
+<h5 align="center">Unity Developer • Full-Stack Developer • C#/.NET Learner • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in vocational training/apprenticehip for Informatics, Game & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h5>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h5 align="left">- I enjoy developing games and interactive systems with Unity & C#<br>- I’m learning full-stack web development (JavaScript + backend fundamentals)<br>- I’m expanding into .NET backend programming<br>- I’m exploring data science and machine learning fundamentals<br>- I’m continuously improving through new projects and hands-on learning</h5>
+<h5 align="left"> • I enjoy developing games and interactive systems with Unity & C#<br> • I’m learning full-stack web development (JavaScript + backend fundamentals)<br> • I’m expanding into .NET backend programming<br> • I’m exploring data science and machine learning fundamentals<br> • I’m continuously improving through new projects and hands-on learning</h5>
 
 ###
 
