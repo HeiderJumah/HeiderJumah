@@ -66,8 +66,6 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="left">- I enjoy developing games and interactive systems with Unity & C#<br>- I’m learning full-stack web development (JavaScript + backend fundamentals)<br>- I’m expanding into .NET backend programming<br>- I’m exploring data science and machine learning fundamentals<br>- I’m continuously improving through new projects and hands-on learning</h5>
 
 ###
