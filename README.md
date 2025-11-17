@@ -4,15 +4,19 @@
 
 ###
 
-<h2 align="center">💫 About Me</h2>
+<h2 align="center"></h2>
 
 ###
 
-<h6 align="center">👨🏻‍💻28yo Programming Student for Game and multimedia applications.<br>📓From Germany, studying at SRH Fachschule Heidelberg.<br>🎮Passionate about Game Dev and creative tech.<br>🎲Trying to improve my coding skills with small projects.</h6>
+<h5 align="center">Unity Developer • C#/.NET Learner • Full-Stack Web Enthusiast • Data Science Beginner<br><br>Welcome to my GitHub! I'm currently in training for Informatics & Media Development at SRH and actively building projects across software development — from game mechanics to small full-stack apps.</h5>
 
 ###
 
-<h2 align="center">💻 Tech Stack</h2>
+<h1 align="left"></h1>
+
+###
+
+<h3 align="center">Techstack</h3>
 
 ###
 
@@ -30,12 +34,16 @@
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
   <img width="15" />
@@ -47,6 +55,56 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<br clear="both">
+
+<h5 align="left">- I enjoy developing games and interactive systems with Unity & C#<br>- I’m learning full-stack web development (JavaScript + backend fundamentals)<br>- I’m expanding into .NET backend programming<br>- I’m exploring data science and machine learning fundamentals<br>- I’m continuously improving through new projects and hands-on learning</h5>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">Areas I'm Learning</h3>
+
+###
+
+<h5 align="left">- .NET backend development<br>- REST APIs<br>- Data analysis & ML basics<br>- Full-stack project architecture</h5>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">Currently Working On</h3>
+
+###
+
+<h5 align="left">- Improving C# outside of Unity<br>- Building small .NET backend services<br>- Learning Python for data analysis<br>- Expanding my Unity portfolio</h5>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">Highlighted Projects</h3>
+
+###
+
+<h5 align="left">- 2D Unity RPG Inventory System – Gameplay logic, UI, scripts<br>- 3D Unity Interaction Prototype – Movement systems, interaction behavior<br>- Web-based Mini Games – JavaScript / Unity WebGL<br>- Small Full-Stack Experiments – Simple APIs, frontend ↔ backend communication<br><br>-> More in my repositories.</h5>
 
 ###
 
