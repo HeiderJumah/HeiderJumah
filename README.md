@@ -96,27 +96,10 @@
 
 <h1 align="left"></h1>
 
-###
-
-<h3 align="left">Highlighted Projects</h3>
-
-###
-
-<h5 align="left"> •  2D Unity RPG Inventory System – Gameplay logic, UI, scripts<br> •  3D Unity Interaction Prototype – Movement systems, interaction behavior<br> •  Web-based Mini Games – JavaScript / Unity WebGL<br> •  Small Full-Stack Experiments – Simple APIs, frontend ↔ backend communication<br><br>-> More in my repositories.</h5>
 
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<h4 align="center">MY PORTFOLIO WEBSITE</h4>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-</div>
 
 ###
 
